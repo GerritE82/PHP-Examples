@@ -1,4 +1,5 @@
 <?php
+    // $conn established elsewhere
     // -----------------------------------------------------------[ QUIZ RELATED FUNCTIONS ]
     // GETS ALL QUIZZES THAT ARE SET TO PUBLIC
     function get_public_quizzes($conn)
